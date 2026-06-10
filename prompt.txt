@@ -1,4 +1,4 @@
-promptsf for this project-
+prompts USED for this project-
 Design a comprehensive 2D Graphics Editor that mimics the core functionality of basic 
 drawing software. The program should provide shape creation, object management, coordinate
 manipulation, deletion, and visualization features. Emphasis should be placed on clean code 
