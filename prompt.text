@@ -1,0 +1,68 @@
+promptsf for this project-
+Design a comprehensive 2D Graphics Editor that mimics the core functionality of basic 
+drawing software. The program should provide shape creation, object management, coordinate
+manipulation, deletion, and visualization features. Emphasis should be placed on clean code 
+architecture, modular design, efficient data handling, user-friendly interaction, and proper 
+documentation. The implementation should demonstrate understanding of graphics concepts, data
+structures, and software development best practices.
+to test code-
+1. Verify that the program correctly creates a line when valid start and end coordinates are provided. 
+Test positive, negative, and zero coordinate values and ensure that the line is stored and displayed accurately.
+
+2. Verify that the program correctly creates a rectangle with valid position, width, and height values.
+Ensure that all properties are stored and displayed correctly.
+
+3. Verify that the program correctly creates a circle using a valid center point and radius. Confirm
+that the circle is stored and displayed with accurate properties.
+
+4. Verify that the program correctly creates a triangle using three valid vertices and stores all
+coordinate information without errors.
+
+5. Verify that multiple graphical objects of different types can be added to the drawing and managed
+simultaneously without affecting one another.
+
+6. Verify that the display function correctly lists all existing graphical objects along with their
+type, properties, and unique identifiers.
+
+7. Verify that the program correctly handles an empty drawing canvas by displaying an appropriate
+message when no objects are present.
+
+8. Verify that an object can be deleted successfully using a valid object identifier and confirm
+that it is removed from the display list.
+
+9. Verify that the program handles attempts to delete non-existent objects gracefully by displaying 
+an appropriate error message.
+
+10. Verify that existing graphical objects can be modified successfully and that all updated properties
+are reflected accurately in subsequent displays.
+
+11. Verify that the program rejects invalid dimensions such as negative width, negative height,
+or invalid radius values and displays appropriate validation messages.
+
+12. Verify that the program correctly validates user input and handles non-numeric values entered where
+numeric input is expected.
+
+13. Verify that the program handles invalid menu selections without crashing and returns the user to
+a valid state.
+
+14. Verify that object identifiers remain unique and consistent throughout object creation, modification
+, and deletion operations.
+
+15. Verify that all shape-specific properties are preserved correctly after multiple display, edit, and 
+delete operations.
+
+16. Perform boundary testing using minimum, maximum, zero, positive, and negative coordinate values to 
+ensure system robustness.
+
+17. Verify that large coordinate values and dimensions are processed correctly without causing overflow,
+crashes, or unexpected behavior.
+
+18. Perform stress testing by creating a large number of graphical objects and verify that all operations
+continue to function correctly.
+
+19. Verify that repeated insertion and deletion of graphical objects do not result in memory leaks,
+data corruption, or program instability.
+
+20. Conduct end-to-end testing of the entire 2D Graphics Editor, validating object creation, display, 
+modification, deletion, input validation, memory management, error handling, system stability, and overall
+functionality to ensure the correctness, reliability, and robustness of the application.
