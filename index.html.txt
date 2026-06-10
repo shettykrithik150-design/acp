@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krithik D Shetty | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">KS<span>.</span></div>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#achievements">Achievements</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <div class="hero-content">
+            <h1>Hi, I'm <span class="highlight">Krithik D Shetty</span></h1>
+            <h2>CSIT Student & Aspiring Software Developer / AI/ML Engineer</h2>
+            <p>Enthusiastic Computer Science and Information Technology student at REVA University with a strong foundation in programming and problem-solving.</p>
+            <div class="hero-buttons">
+                <a href="#contact" class="btn primary-btn">Get In Touch</a>
+                <a href="https://github.com/shettykrithik150-design" target="_blank" class="btn secondary-btn"><i class="fab fa-github"></i> GitHub</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="section">
+        <h2 class="section-title">About & Education</h2>
+        <div class="about-container">
+            <div class="about-card">
+                <h3>Career Objective</h3>
+                <p>Seeking opportunities as a Software Developer or AI/ML Engineer to apply technical knowledge, contribute to innovative projects, and continuously enhance my skills in software development and emerging technologies.</p>
+            </div>
+            <div class="about-card">
+                <h3>Education</h3>
+                <h4>REVA University, Bangalore</h4>
+                <p class="subtext">Bachelor of Engineering (B.E.) in Computer Science and Information Technology (CSIT)</p>
+                <p class="date"><i class="far fa-calendar-alt"></i> Currently Pursuing (Second Semester)</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="section code-bg">
+        <h2 class="section-title">Technical Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-category">
+                <h3>Languages</h3>
+                <ul>
+                    <li><i class="dev-icon fas fa-code"></i> C</li>
+                    <li><i class="dev-icon fas fa-code"></i> C++</li>
+                    <li><i class="fab fa-java dev-icon"></i> Java</li>
+                </ul>
+            </div>
+            <div class="skill-category">
+                <h3>Data & Tools</h3>
+                <ul>
+                    <li><i class="fas fa-database dev-icon"></i> SQL</li>
+                    <li><i class="fab fa-git-alt dev-icon"></i> Git & GitHub</li>
+                    <li><i class="fas fa-chart-bar dev-icon"></i> Data Analysis & Visualization</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <h2 class="section-title">Projects</h2>
+        <div class="projects-grid">
+            <div class="project-card">
+                <div class="project-icon"><i class="fas fa-robot"></i></div>
+                <h3>IoT-Based Automatic Robot Vacuum Cleaner</h3>
+                <p>Developed an IoT-enabled robotic vacuum cleaner capable of autonomous room cleaning. Integrated obstacle detection sensors to identify and avoid obstacles during navigation while efficiently collecting dust.</p>
+                <div class="project-tags">
+                    <span>IoT</span>
+                    <span>Automation</span>
+                    <span>Sensors</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="achievements" class="section contrast-bg">
+        <h2 class="section-title">Achievements & Certifications</h2>
+        <div class="dual-row">
+            <div class="dual-column">
+                <h3>Awards</h3>
+                <div class="item-card">
+                    <i class="fas fa-trophy gold"></i>
+                    <div>
+                        <h4>1st Place Winner</h4>
+                        <p>C and IT Branch Project Competition (IoT-Based Automatic Robot Vacuum Cleaner)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="dual-column">
+                <h3>IBM Certifications</h3>
+                <div class="item-card"><i class="fab fa-python blue"></i> <p>Data Visualization Using Python</p></div>
+                <div class="item-card"><i class="fab fa-python blue"></i> <p>Data Analysis Using Python</p></div>
+                <div class="item-card"><i class="fab fa-python blue"></i> <p>Python for Data Science</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <h2 class="section-title">Connect With Me</h2>
+        <div class="contact-container">
+            <div class="contact-info">
+                <a href="mailto:shettykrithik150@gmail.com" class="contact-item">
+                    <i class="fas fa-envelope"></i>
+                    <span>shettykrithik150@gmail.com</span>
+                </a>
+                <a href="tel:+918431132178" class="contact-item">
+                    <i class="fas fa-phone"></i>
+                    <span>+91 8431132178</span>
+                </a>
+                <div class="contact-item">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <span>Bangalore, Karnataka</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Krithik D Shetty. Built with HTML & CSS.</p>
+    </footer>
+
+</body>
+</html>
