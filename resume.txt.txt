@@ -1,0 +1,60 @@
+KRITHIK D SHETTY
+
+Bangalore, Karnataka
+📞 +91 8431132178
+📧 shettykrithik150@gmail.com
+💻 GitHub: https://github.com/shettykrithik150-design
+
+CAREER OBJECTIVE
+
+Enthusiastic Computer Science and Information Technology student with a strong foundation in programming and problem-solving. Seeking opportunities as a Software Developer or AI/ML Engineer to apply technical knowledge, contribute to innovative projects, and continuously enhance my skills in software development and emerging technologies.
+
+EDUCATION
+
+REVA University, Bangalore
+Bachelor of Engineering (B.E.) in Computer Science and Information Technology (CSIT)
+Currently Pursuing (Second Semester)
+
+TECHNICAL SKILLS
+
+* C
+* C++
+* Java
+* SQL
+* Git & GitHub
+* Data Analysis
+* Data Visualization
+* Communication Skills
+
+PROJECTS
+
+IoT-Based Automatic Robot Vacuum Cleaner
+
+* Developed an IoT-enabled robotic vacuum cleaner capable of autonomous room cleaning.
+* Integrated obstacle detection sensors to identify and avoid obstacles during navigation.
+* Designed the system to efficiently collect dust while moving throughout a room.
+* Demonstrated practical applications of IoT and automation in smart home environments.
+
+CERTIFICATIONS
+
+IBM Certifications
+
+* Data Visualization Using Python
+* Data Analysis Using Python
+* Python for Data Science
+
+ACHIEVEMENTS
+
+* Secured 1st Place in the C and IT Branch Project Competition for the IoT-Based Automatic Robot Vacuum Cleaner project.
+
+EXTRACURRICULAR ACTIVITIES
+
+* Regular Gym Training and Fitness Activities
+* Cricket
+
+LANGUAGES
+
+* English
+* Hindi
+* Kannada
+* Tulu
